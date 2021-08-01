@@ -22,8 +22,8 @@
 
 
 ## Github Stats:
-![Bluppy](https://github-readme-stats.vercel.app/api?username=Bluppy-git&count_private=true&hide_border=true&show_icons=true&include_all_commits=true)
-![Bluppy](https://github-readme-stats.vercel.app/api/top-langs/?username=Bluppy-git&layout=compact&hide_border=true)
+![Cryptix](https://github-readme-stats.vercel.app/api?username=Bluppy-git&count_private=true&hide_border=true&show_icons=true&include_all_commits=true)
+![Cryptix](https://github-readme-stats.vercel.app/api/top-langs/?username=Bluppy-git&layout=compact&hide_border=true)
 
 
                                                   Check out my work below!
