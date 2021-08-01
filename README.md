@@ -74,7 +74,6 @@ UNSICHTBAR!!!
       <hr>  
 -->
 
-
 <!---
 - 👋 Hi, I’m @Cryptix-coding
 - 👀 I’m interested in ...
