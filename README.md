@@ -2,7 +2,7 @@
 [<img align="left" alt="Pycharm" width="22px" src="https://simpleicons.org/icons/pycharm.svg" />][pycharm]
 [<img align="left" alt="Python" width="22px" src="https://simpleicons.org/icons/python.svg" />][python]
 [<img align="left" alt="IntelliJ" width="22px" src="https://simpleicons.org/icons/intellijidea.svg" />][IntelliJ]
-[<img align="left" alt="Java" width="22px" src="https://simpleicons.org/icons/java.svg" />][Java]
+[<img align="left" alt="Java" width="22px" src="https://simpleicons.org/icons/openjdk.svg" />][Java]
 [<img align="left" alt="visualstudiocode" width="22px" src="https://simpleicons.org/icons/visualstudiocode.svg" />][visualstudiocode]
 [<img align="left" alt="Raspberry Pi" width="22px" src="https://simpleicons.org/icons/raspberrypi.svg" />][Raspberrypi]
 [<img align="left" alt="Arduino" width="22px" src="https://simpleicons.org/icons/arduino.svg" />][Arduino]
